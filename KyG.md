@@ -1,7 +1,7 @@
 # Project Title :pygame12  
 ### Batch NO : 16
 ### Mentor Name :MS.V.KAMALA 
-### Github Link : 
+### Github Link : github.com/Angel-12314/pygame12 
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
