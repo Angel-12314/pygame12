@@ -1,2 +1,2 @@
-# pygame12 (Number Gussing Game)
-This project is proposed to generate random three digit numbers, user needs to indentify the number based on the hints given each time after every attempt.
+# pygame12 (Find the Characters)
+This project is proposed to generate Characters, user needs to indentify the Characters based on the hints given each time after every attempt.
